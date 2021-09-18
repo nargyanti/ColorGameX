@@ -12,5 +12,11 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:background">#a1c8ce</item>
+        <item name="android:paddingLeft">1pt</item>
+        <item name="android:paddingRight">1pt</item>
+        <item name="android:paddingTop">1pt</item>
+        <item name="android:paddingBottom">1pt</item>
+        <item name="android:textColor">@color/textColor</item>
     </style>
 </resources>
